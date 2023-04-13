@@ -3,10 +3,6 @@ import "./ItemCount.css";
 
 const ItemCount = ({ inicial, stock, funcionAgregar }) => {
   {
-    /*
-  let inicial = 1;
-  let maximo = 10;
-  */
   }
   const [contador, setContador] = useState(inicial);
 

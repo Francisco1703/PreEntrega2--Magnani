@@ -57,35 +57,3 @@ const Navbar = () => {
 };
 
 export default Navbar;
-
-{
-  /* 
-
-import React from "react";
-import CartWidget from "../CartWidget/CartWidget";
-import "./NavBar.css";
-import { NavLink, Link } from "react-router-dom";
-
-const NavBar = () => {
-  return (
-    <header>
-      <Link to={"/"}>
-        {" "}
-        <img className="logoNike" src="./img/logoNike.png" alt="Logo Nike" />
-      </Link>
-      <ul>
-        <li className="bg-li">
-          <NavLink to={`/categoria/1`}>Ropa</NavLink>
-        </li>
-        <li>
-          <NavLink to={`/categoria/2`}>Zapatillas</NavLink>
-        </li>
-      </ul>
-      <CartWidget />
-    </header>
-  );
-};
-
-export default NavBar;
-*/
-}
