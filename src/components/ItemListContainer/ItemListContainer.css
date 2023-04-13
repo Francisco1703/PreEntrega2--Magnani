@@ -1,0 +1,17 @@
+.bgDiv {
+  background-color: rgb(217, 228, 167);
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.h2Productos {
+  text-align: center;
+  background-color: #ff5a00;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 2rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  text-shadow: grey 2px 2px;
+}

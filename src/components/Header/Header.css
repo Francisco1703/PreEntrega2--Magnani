@@ -1,0 +1,9 @@
+.divHeader {
+  margin-bottom: -16px;
+  background-color: black;
+  color: white;
+}
+
+.pHeader:hover {
+  color: aquamarine;
+}

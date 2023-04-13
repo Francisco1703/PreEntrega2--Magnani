@@ -1,0 +1,8 @@
+.imgCarrito {
+  width: 80px;
+  padding: 10px;
+}
+
+.imgCarrito:hover {
+  cursor: pointer;
+}
