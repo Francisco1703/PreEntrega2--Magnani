@@ -1,0 +1,139 @@
+.carritoVacio {
+  text-align: center;
+  padding: 50px;
+  font-size: 250%;
+  font-weight: 700;
+}
+
+.linkProductos {
+  text-align: center;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding: 15px;
+  width: 180px;
+  background-color: blueviolet;
+  color: black;
+  text-decoration: none;
+  border-radius: 10px;
+  font-size: 150%;
+  font-weight: 700;
+  transition: all 0.4s;
+}
+
+.linkProductos:hover {
+  transform: scale(1.05);
+  color: white;
+  background-color: rgb(235, 35, 35);
+}
+
+.imgFlecha {
+  width: 25px;
+  display: flex;
+  margin-right: 10px;
+}
+
+.totalCompra {
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 200%;
+  background: linear-gradient(to right, rgb(185, 180, 180), black);
+  color: white;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.vaciarCarrito {
+  padding: 10px;
+  background-color: red;
+  color: white;
+  border: none;
+  font-size: 140%;
+  font-weight: 600;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  width: 250px;
+  margin-right: 30px;
+  border: 1px solid black;
+  transition: all 0.4s;
+}
+
+.vaciarCarrito:hover {
+  background-color: rgb(248, 52, 52);
+  box-shadow: 0 0 4px 3px red;
+  border: none;
+  color: black;
+}
+
+.finalizarCompra {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+  background-color: green;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 140%;
+  width: 250px;
+  margin-right: 30px;
+  border: 1px solid black;
+  transition: all 0.4s;
+}
+
+.finalizarCompra:hover {
+  background-color: rgb(20, 165, 20);
+  box-shadow: 0 0 4px 3px green;
+  border: none;
+  color: black;
+}
+
+.continuarComprando {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+  background-color: rgb(58, 130, 197);
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 140%;
+  width: 250px;
+  border: 1px solid black;
+  transition: all 0.4s;
+}
+
+.continuarComprando:hover {
+  background-color: rgb(45, 122, 194);
+  box-shadow: 0 0 4px 3px rgb(58, 130, 197);
+  border: none;
+  color: black;
+}
+
+.juntos {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.direction {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}

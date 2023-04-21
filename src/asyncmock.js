@@ -1,15 +1,15 @@
 const productos = [
   {
-    nombre: "Nike Air Force",
-    precio: "$150",
     id: "1",
+    nombre: "Nike Air Force",
+    precio: 150,
     img: "../img/airForce1.png",
     idCat: "1",
     stock: "20",
   },
   {
     nombre: "Nike Air Force",
-    precio: "$120",
+    precio: 120,
     id: "2",
     img: "../img/airForce2.png",
     idCat: "1",
@@ -17,7 +17,7 @@ const productos = [
   },
   {
     nombre: "Nike Air Force",
-    precio: "$100",
+    precio: 100,
     id: "3",
     img: "../img/airForce3.png",
     idCat: "1",
@@ -25,7 +25,7 @@ const productos = [
   },
   {
     nombre: "Nike Air Force",
-    precio: "$80",
+    precio: 80,
     id: "4",
     img: "../img/airForce4.png",
     idCat: "1",
@@ -33,7 +33,7 @@ const productos = [
   },
   {
     nombre: "Remera Nike",
-    precio: "$40",
+    precio: 40,
     id: "5",
     img: "../img/remera1.png",
     idCat: "2",
@@ -41,7 +41,7 @@ const productos = [
   },
   {
     nombre: "Remera Nike",
-    precio: "$20",
+    precio: 20,
     id: "6",
     img: "../img/remera2.png",
     idCat: "2",
@@ -49,7 +49,7 @@ const productos = [
   },
   {
     nombre: "Remera Nike",
-    precio: "$50",
+    precio: 50,
     id: "7",
     img: "../img/remera3.png",
     idCat: "2",
@@ -57,7 +57,7 @@ const productos = [
   },
   {
     nombre: "Remera Nike",
-    precio: "$35",
+    precio: 35,
     id: "8",
     img: "../img/remera4.png",
     idCat: "2",
@@ -65,7 +65,7 @@ const productos = [
   },
   {
     nombre: "Gafas deportivas Nike",
-    precio: "$180",
+    precio: 180,
     id: "9",
     img: "../img/gafasNike.png",
     idCat: "3",
@@ -73,7 +73,7 @@ const productos = [
   },
   {
     nombre: "Gorra Nike",
-    precio: "$30",
+    precio: 30,
     id: "10",
     img: "../img/gorraNike.png",
     idCat: "3",
@@ -81,7 +81,7 @@ const productos = [
   },
   {
     nombre: "Mochila Jordan",
-    precio: "$230",
+    precio: 230,
     id: "11",
     img: "../img/mochilaJordan.png",
     idCat: "3",
@@ -89,7 +89,7 @@ const productos = [
   },
   {
     nombre: "Mochila Nike",
-    precio: "$199",
+    precio: 199,
     id: "12",
     img: "../img/mochilaNike.png",
     idCat: "3",

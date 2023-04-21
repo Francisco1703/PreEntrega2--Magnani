@@ -15,6 +15,9 @@
   display: inline-block;
   justify-content: center;
   transition: all 0.5s;
+  font-size: 120%;
+  letter-spacing: 2px;
+  margin: 10px;
 }
 
 .nav:hover {
